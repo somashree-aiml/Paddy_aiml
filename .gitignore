@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environments
+env/
+venv/
+
+# Data
+data/raw/
+
+# Models
+models/
+
+# Outputs
+outputs/
+
+# Raster files
+*.tif
+*.img
+
+# Temporary
+*.log
